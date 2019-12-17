@@ -81,7 +81,7 @@ body {
     transform: scale(0.9);
 }
 
-.active-content p {
+.active-content p, ul {
     text-indent: 40px;
     font-size: 1.2em;
     font-weight: 300;
